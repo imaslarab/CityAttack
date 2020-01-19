@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/src/main/res/mipmap-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/build/intermediates/res/merged/release/layout___arcore_education.xml.flat",
+        "source": "/Users/samibaral/.gradle/caches/transforms-2/files-2.1/7dcf124ef4f066cd2f8b61b8d52bd37f/res/layout/__arcore_education.xml"
+    },
+    {
+        "merged": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/src/main/res/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/src/main/res/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-mdpi_app_icon.png.flat",
+        "source": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/src/main/res/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/src/main/res/mipmap-anydpi-v26/app_icon_round.xml"
+    },
+    {
+        "merged": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/src/main/res/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/src/main/res/mipmap-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/src/main/res/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/src/main/res/mipmap-anydpi-v26/app_icon.xml"
+    },
+    {
+        "merged": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/build/intermediates/res/merged/release/raw_keep_arcore.xml.flat",
+        "source": "/Users/samibaral/.gradle/caches/transforms-2/files-2.1/7dcf124ef4f066cd2f8b61b8d52bd37f/res/raw/keep_arcore.xml"
+    },
+    {
+        "merged": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/samibaral/Documents/Hackathon/city/Temp/gradleOut/src/main/res/mipmap-xxhdpi/ic_launcher_background.png"
+    }
+]
